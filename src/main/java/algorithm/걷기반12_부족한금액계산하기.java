@@ -1,3 +1,5 @@
+package algorithm;
+
 public class 걷기반12_부족한금액계산하기 {
         public long Solution(int price, int money, int count) {
             long answer = -1;

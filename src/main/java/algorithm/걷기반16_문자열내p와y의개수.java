@@ -1,3 +1,5 @@
+package algorithm;
+
 public class 걷기반16_문자열내p와y의개수 {
     boolean solution1(String s) {
         boolean answer = true;

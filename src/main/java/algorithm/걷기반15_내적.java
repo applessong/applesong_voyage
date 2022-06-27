@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package algorithm;
 
 public class 걷기반15_내적 {
     public int solution(int[] a, int[] b) {

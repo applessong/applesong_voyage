@@ -1,3 +1,5 @@
+package algorithm;
+
 public class 걷기반18_서울에서김서방찾기 {
     public String solution1(String[] seoul) {
         String answer = "";

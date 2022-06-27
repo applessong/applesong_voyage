@@ -1,3 +1,5 @@
+package algorithm;
+
 class HelloWorld {
     public double solution(int[] arr) {
         double answer = 0;

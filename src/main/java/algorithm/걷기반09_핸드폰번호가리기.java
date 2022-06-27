@@ -1,3 +1,5 @@
+package algorithm;
+
 public class 걷기반09_핸드폰번호가리기 {
 
     public String Solution1(String number) {

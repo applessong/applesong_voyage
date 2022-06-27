@@ -1,3 +1,5 @@
+package algorithm;
+
 import java.util.Arrays;
 
 public class 걷기반11_x만큼간격이있는 {

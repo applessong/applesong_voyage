@@ -1,3 +1,5 @@
+package algorithm;
+
 import java.util.Arrays;
 
 //오ㅓ......2차원이상배열쓰니까 자동으로 임포트문 적어줌;; 쩐다;ㅇ;;

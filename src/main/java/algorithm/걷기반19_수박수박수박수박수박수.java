@@ -1,3 +1,5 @@
+package algorithm;
+
 public class 걷기반19_수박수박수박수박수박수 {
     public String solution1(int n) {
         String answer = "";

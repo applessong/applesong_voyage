@@ -1,3 +1,5 @@
+package algorithm;
+
 public class 걷기반17_문자열다루기기본 {
     public boolean solution1(String s) {
         boolean answer = true;

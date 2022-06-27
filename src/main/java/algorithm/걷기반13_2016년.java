@@ -1,3 +1,5 @@
+package algorithm;
+
 public class 걷기반13_2016년  {
     public String solution(int a, int b) {
         String answer = "";
