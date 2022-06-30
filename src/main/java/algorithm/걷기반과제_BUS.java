@@ -88,9 +88,8 @@ class 걷기반과제_BUS {
 
 
 //  탑승 승객 수 확인 메서드 시작//
-    public int checkPassenger(){
+    public void checkPassenger(){
         System.out.println("현재 승객 수는 "+this.passneger+"입니다.");
-        return this.passneger;
     }
 //  탑승 승객 수 확인 메서드 종료//
 
@@ -105,9 +104,8 @@ class 걷기반과제_BUS {
         }
         return this.speed;
     }
-    public int CheckSpeed(){
+    public void CheckSpeed(){
         System.out.println("현재 운행 속도는"+this.speed+"입니다.");
-        return this.speed;
     }
 //  속도변경 메서드 종료//
 
@@ -133,9 +131,12 @@ class 걷기반과제_BUS {
         걷기반과제_BUS bus1 = new 걷기반과제_BUS();
         bus1.getBusNum();
         System.out.println("버스 번호 : "+bus1.busNum);
-        bus1.fuel = 0;           //연료량 입력
+        bus1.fuel = 5;           //연료량 입력
         bus1.now_fuel(bus1.fuel);//연료량을 대입해서 운행여부 판단하기
 
+        bus1.passengerBoarding();
+        bus1.passengerBoarding();
+        bus1.passengerBoarding();
         bus1.passengerBoarding();
         bus1.passengerBoarding(); //승객탑승메서드 호출
         bus1.checkPassenger();
