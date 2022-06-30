@@ -2,7 +2,7 @@ package algorithm;
 
 import java.util.Arrays;
 
-public class 걷기반22_자연수뒤집어배열로만들기 {
+public class 걷기반23_자연수뒤집어배열로만들기 {
 
 
     public int[] solution1(long n) {
@@ -37,7 +37,7 @@ public class 걷기반22_자연수뒤집어배열로만들기 {
     }
 
     public static void main(String[] args){
-        걷기반22_자연수뒤집어배열로만들기 Solution = new 걷기반22_자연수뒤집어배열로만들기();
+        걷기반23_자연수뒤집어배열로만들기 Solution = new 걷기반23_자연수뒤집어배열로만들기();
 
         long n = 12345;
 
